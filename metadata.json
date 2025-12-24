@@ -1,0 +1,9 @@
+
+{
+  "name": "Arix Signature Interactive Christmas Tree",
+  "description": "A high-fidelity, luxury 3D interactive Christmas experience featuring a cinematic emerald and gold aesthetic with AI-powered festive greetings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
